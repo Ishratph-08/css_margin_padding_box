@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+    background-color: rgb(194, 235, 221);
+}
+#h-tag{
+    margin: 50px;
+    padding:10px ;
+    background-color:rgb(183, 192, 201);
+
+}
+#p-tag{
+    width: 200px;
+    height: 200px;
+    background-color:lightgreen ;
+    margin: 50px;
+    padding:10px;
+    box-sizing: border-box;
+    border:10px solid green;
+    overflow: auto;
+
+}
